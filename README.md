@@ -2,7 +2,6 @@
 
 
 ![Capture2](https://github.com/mehdiayed/inventory-management-system/assets/81702423/d48a5aaf-4b27-4a39-ad62-4d37cbb3d8af)
-![Capture3](https://github.com/mehdiayed/inventory-management-system/assets/81702423/a8021a5f-275c-47c1-9b3e-b30bb3fc3164)
 ![Capture3](https://github.com/mehdiayed/inventory-management-system/assets/81702423/b6e828ee-e683-44c0-9326-08c97ef7099c)
 ![Capture5](https://github.com/mehdiayed/inventory-management-system/assets/81702423/890410ab-7129-4ea2-9d9c-71f296d37719)
 ![Capture](https://github.com/mehdiayed/inventory-management-system/assets/81702423/151efd53-7459-4158-86c2-493721a97194)
